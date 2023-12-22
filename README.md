@@ -16,4 +16,4 @@ Los aprendizajes más relevantes fueron:
 * Implementación de sistema de autenticación y autorización con JWT con distintos roles para proteger los end points de la API.
 * Manejo de sesión y token JWT en el frontend con Pinia y Vue Router (para proteger las diferentes rutas).
 * Uso de Typescript.
-* Se utiliza JDBC en vez de un ORM para realizar las consultas a la capa de datos.
+* Se utiliza JDBC en vez de un ORM para realizar transacciones y acceder a la capa de datos.
