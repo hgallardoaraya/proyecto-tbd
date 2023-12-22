@@ -1,0 +1,13 @@
+es coordinador si!
+es el coordinador que se coorresponde con estas tareas?
+
+coordinador = getusername(token)
+
+tarea -> emergencia -> institucion -> coordinadores
+
+coordinadores.include(coordinador)
+
+Esto funciona porque username no puede ser modificado ya que viene en el token y este es inmutable (se detecta)
+por ende, solo hay que verificar que el username del coordinador esté en la lista de coordinadores de la institución
+que levantó dicha tarea.
+

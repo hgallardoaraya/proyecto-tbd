@@ -1,0 +1,1 @@
+Ver función en el trigger para la auditoria.
