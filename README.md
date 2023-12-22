@@ -14,6 +14,6 @@ Los aprendizajes más relevantes fueron:
 * Se utiliza la extensión PostGIS para almacenar datos espaciales.
 * Se utiliza la librería Leaflet para mostrar los datos en un mapa interactivo en el frontend.
 * Implementación de sistema de autenticación y autorización con JWT con distintos roles para proteger los end points de la API.
-* Manejo de sesión y token JWT en el frontend con Pinia y Vue Router (para proteger las distintas rutas).
+* Manejo de sesión y token JWT en el frontend con Pinia y Vue Router (para proteger las diferentes rutas).
 * Uso de Typescript.
 * Se utiliza JDBC en vez de un ORM para realizar las consultas a la capa de datos.
